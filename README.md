@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TerryMahAI
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning AI at Stanford Online
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me terry.mah01@gmail.com
